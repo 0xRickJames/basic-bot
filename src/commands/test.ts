@@ -23,7 +23,7 @@ export const test: CommandInt = {
     const updatedUser = await updateUserData(targetUser);
 
     const testEmbed = new EmbedBuilder();
-    testEmbed.setTitle("100 Days of Code");
+    testEmbed.setTitle("Basic Embed");
     testEmbed.setDescription(text);
     testEmbed.setAuthor({
       name: user.tag,
