@@ -1,5 +1,7 @@
 # basic-bot 
 
+Install git, Node.js and npm
+
 `git clone https://github.com/0xRickJames/basic-bot.git` 
 
 `cd basic-bot` 
